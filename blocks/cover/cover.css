@@ -1,0 +1,7 @@
+.cover{
+    width: 1024px;
+    height: 640px;
+    background-image: url(../../sprint-3-images/cover-trains.jpg) ;
+    object-fit: cover;
+    border:1px solid red;
+}
