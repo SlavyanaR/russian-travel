@@ -1,5 +1,7 @@
 .lead__image{
 width: 928px;
 height: 580px;
+object-fit: cover;
+text-align: center;
 border:1px solid red;
 }
