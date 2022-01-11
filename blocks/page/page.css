@@ -5,6 +5,7 @@
     margin: 0 auto;
     font-family: Inter;
     font-style: normal;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
     border:1px solid red;
 }
