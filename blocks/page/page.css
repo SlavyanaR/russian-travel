@@ -1,11 +1,10 @@
+html, body{
+    background: #2a2c2f;
+    margin: 0;
+}
+
 .page{
-    background: #2A2C2F;
     color: #FFFFFF;
-    max-width: 1280px;
-    margin: 0 auto;
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-    border:1px solid red;
+    font-family: inter;
+    font-size: normal;
 }
