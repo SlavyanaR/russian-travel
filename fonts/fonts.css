@@ -1,0 +1,16 @@
+@font-face{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/Inter-Regular.woff2") fornmat("woff2"),
+         url("../fonts/Inter-Regular.woff") fornmat("woff");
+}
+@font-face{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("../fonts/Inter-Bold.woff2") fornmat("woff2"),
+         url("../fonts/Inter-Bold.woff") fornmat("woff");
+}

@@ -1,25 +1,29 @@
-.place__image{
+.places__image{
  border:1px solid red;
 justify-self: center;
 width: 440px;
 height: 440px;
+grid-column: 1;
+grid-row: 2/5;
+margin: 0;
+padding: 0;
 }
 
 @media screen and (min-width:360px) {
-    .place__image{
+    .places__image{
         width: 320px;
         height: 320px;
     } 
  }
 
  @media screen and (min-width:768px) {
-     .place__image{
+     .places__image{
         width: 340px;
         height: 340px;
      } 
   }
   @media screen and (min-width:1280px) {
-     .place__image{
+     .places__image{
         width: 460px;
         height: 460px;
      } 

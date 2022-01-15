@@ -7,4 +7,11 @@ html, body{
     color: #FFFFFF;
     font-family: inter;
     font-size: normal;
+    font-style: normal;
+    font-family: 'Inter', 'arial', sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    color: #fff;
 }
