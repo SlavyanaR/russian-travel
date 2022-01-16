@@ -4,7 +4,7 @@ line-height: 20px;
 text-align: right;
 cursor: pointer;
 color: inherit;
-border:1px solid red;
+text-decoration: none;
 }
 
 @media screen and (min-width:320px){
