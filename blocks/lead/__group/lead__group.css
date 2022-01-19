@@ -1,4 +1,10 @@
-.lead__group{
+.lead__group {
     padding: 0;
     margin: 0;
+}
+
+@media screen and (min-width: 1280px){
+    .lead__group{
+     max-width: 984px;
+    } 
 }

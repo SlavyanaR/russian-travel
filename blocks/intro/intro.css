@@ -1,21 +1,23 @@
-.intro{
- margin: 64px 16px;
- padding: 0;
+.intro {
+    margin: 64px 16px;
+    padding: 0;
+}
 
-}
 @media screen and (min-width:767px) {
-    .intro{
+    .intro {
         margin: 88px 24px;
-    }  
+    }
 }
+
 @media screen and (min-width:1024px) {
-    .intro{
+    .intro {
         width: 690px;
         margin: 92px auto 92px calc(48 / 1024 * 100%);
-    } 
+    }
 }
+
 @media screen and (min-width:1280px) {
-    .intro{
+    .intro {
         margin: 92px auto 92px calc(148 / 1024 * 100%);
     }
 }
