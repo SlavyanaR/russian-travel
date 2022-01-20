@@ -18,4 +18,4 @@ https://slavyanar.github.io/russian-travel/
 
 HTML, CSS (Flex, Grid, БЭМ), инструменты адаптивной верстки, типограф
 
-
+test
