@@ -1,7 +1,7 @@
 .page {
     background: #2a2c2f;
-    margin: 0;
-    max-width: 1280px;
+    margin: 0 auto;
+    max-width: 320px;
     color: #FFFFFF;
     font-family: inter;
     font-size: normal;
@@ -12,4 +12,19 @@
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
     color: #fff;
+}
+@media screen and (min-width: 768px) {
+    .page{
+        max-width: 768px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .page{
+        max-width: 1024px;
+    }
+}
+@media screen and (min-width: 1280px) {
+    .page{
+        max-width: 1280px;
+    }
 }
