@@ -4,22 +4,26 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  width:90%
  }
 
 @media screen and (min-width:768px) {
   .header {
     margin: 28px 24px 48px;
+    width: 93.75%;
   }
 }
 
 @media screen and (min-width:1024px) {
   .header {
     margin: 28px 48px 48px;
+    width: 90.625%;
   }
 }
 
 @media screen and (min-width:1280px) {
   .header {
     margin: 28px 48px 56px;
+    width:92.5%
   }
 }
