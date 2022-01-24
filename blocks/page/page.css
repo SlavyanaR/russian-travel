@@ -2,11 +2,11 @@
     background: #2a2c2f;
     margin: 0 auto;
     max-width: 1280px;
+    min-width: 320px;
     color: #FFFFFF;
-    font-family: inter;
     font-size: normal;
     font-style: normal;
-    font-family: 'Inter', 'arial', sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
