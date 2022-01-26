@@ -1,8 +1,0 @@
-.place__title_theme {}
-
-@media screen and (min-width: 768px) {
-    .place__title_theme {
-        word-spacing: 2rem;
-    }
-
-}
